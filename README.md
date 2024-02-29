@@ -1,4 +1,6 @@
 ![GitHub profile picture](https://github.com/TheProjectR.png)
 
-# Projects
+# We Do Proxy Shit
+
+## Projects
 [Cloakers](https://github.com/theprojectr/Cloakers)
