@@ -1,2 +1,3 @@
-Go Fuck Yourself if You are Reading This
+![GitHub profile picture](https://github.com/TheProjectR.png)
 
+# Projects
